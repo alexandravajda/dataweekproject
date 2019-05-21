@@ -1,0 +1,15 @@
+---
+title: "Crowed Sourced Data Analysis"
+author: "Alexandra Vajda"
+date: "21/05/2019"
+output: html_document
+---
+
+# Load data
+
+Our group of interpid scientist chose the 'faithful' dataset
+
+```{r}
+df <- faithful
+```
+
